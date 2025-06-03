@@ -7,7 +7,7 @@ I’m an **Experienced Full-Stack Software Developer** who loves solving real-wo
 ## 💡 About Me
 
 - 🔧  **Currently working on:** Something cool
-- 🌱  **I’m currently learning** NextJS & Tailwind 
+- 🌱  **I’m currently learning:** NextJS & Tailwind 
 - 🚀  **Goal:** Use my skills to positively impact the world—one line of code at a time  
 - 😄  **Pronouns:** he/him
 - 🧙‍♂️  Sorcerer of Syntax. Summons semicolons with a whisper.
