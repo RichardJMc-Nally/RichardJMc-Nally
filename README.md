@@ -21,7 +21,7 @@ I’m an **Experienced Full-Stack Software Developer** who loves solving real-wo
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=angular,astro,react,nextjs,html,js,ts,css,sass,tailwind,dotnet,electron,java,cs,py,figma,git,github,nodejs,fastapi,mongodb,mysql,md,vscode,visualstudio,idea,eclipse&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,astro,react,nextjs,html,js,ts,css,sass,tailwind,dotnet,java,cs,py,figma,git,github,nodejs,fastapi,mongodb,mysql,vscode,visualstudio,idea,eclipse,apple,windows&theme=dark&perline=9)](https://skillicons.dev)
 
 ---
 
